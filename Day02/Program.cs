@@ -2,6 +2,8 @@
 
 class Program
 {
+    // https://adventofcode.com/2022/day/2
+
     private const int lose = 0;
     private const int draw = 3;
     private const int wins = 6;
@@ -9,8 +11,7 @@ class Program
     private const int rock = 1;
     private const int paper = 2;
     private const int scissors = 3;
-
-    // https://adventofcode.com/2022/day/2
+    
     static void Main()
     {
         int result1 = 0;

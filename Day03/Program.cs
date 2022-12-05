@@ -9,7 +9,7 @@ class Program
         int result1 = 0;
         int result2 = 0;
 
-        StartDay(3);
+        StartDay(4);
 
         // Part 1
         StartPart(1);
