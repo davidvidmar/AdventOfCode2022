@@ -1,4 +1,4 @@
-using static AdventOfCode2021.Utils;
+using static AdventOfCode2022.Utils;
 
 int result1 = 0;
 int result2 = 0;

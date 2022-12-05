@@ -15,7 +15,7 @@ namespace AdventOfCode2022
 
         public static void StartDay(int day)
         {
-            Console.WriteLine($"Advent of Code 2021 - Day {day}");
+            Console.WriteLine($"Advent of Code 2022 - Day {day}");
         }
 
         public static void StartPart(int part)
