@@ -9,8 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Utils", "Utils\Utils.csproj
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{16C63751-77F7-4E6F-96E5-C45ABE5F642C}"
 	ProjectSection(SolutionItems) = preProject
-		README.md = README.md
 		_template.txt = _template.txt
+		README.md = README.md
 	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day02", "Day02\Day02.csproj", "{21B114D2-B6CC-4556-B747-D851FE1045F4}"
@@ -22,6 +22,8 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day05", "Day05\Day05.csproj", "{10874B74-6ECB-4D42-869F-7D0106D6F34F}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day06", "Day06\Day06.csproj", "{EFC91F7B-CF2C-456C-A983-41D20823EFFE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day07", "Day07\Day07.csproj", "{824235F3-F1B7-48E4-8611-F26497EDCBDE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{EFC91F7B-CF2C-456C-A983-41D20823EFFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EFC91F7B-CF2C-456C-A983-41D20823EFFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EFC91F7B-CF2C-456C-A983-41D20823EFFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{824235F3-F1B7-48E4-8611-F26497EDCBDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{824235F3-F1B7-48E4-8611-F26497EDCBDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{824235F3-F1B7-48E4-8611-F26497EDCBDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{824235F3-F1B7-48E4-8611-F26497EDCBDE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
